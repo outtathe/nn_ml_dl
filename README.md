@@ -13,4 +13,4 @@
 - В `README.md` после каждой работы пишем короткий абзац:  
   *«Сделал лабу 1, задача была в том-то, сделал то-то, получил то-то»*.  
 
-Таблица с вашими успехами: [Google-sheets](https://docs.google.com/spreadsheets/d/1NOE0D4JQgD6LbvUqWboUI1TFj4P87ugbqUTDquxlGEI/edit?usp=sharing)
+Таблица с вашими успехами: [Google-sheets](https://docs.google.com/spreadsheets/d/1i4PSy4pAaEfqC2gSAdcQGHTNvsPsRXKXk5Gv7InwLV8/edit?usp=sharing)
